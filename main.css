@@ -1,0 +1,26 @@
+body {
+    background: #d6e2f0;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card {
+    padding: 12px;
+    border-radius: 5%;
+}
+
+.img_rounded {
+    border-radius: 5%;
+}
+
+.card-title {
+    padding-bottom: 7px;
+    padding-top: 10px;
+    font-weight: 700;
+    color: #1f3251;
+}
+
+.card-text {
+    font-weight: 400;
+    font-size: 15px;
+    color: #7b879d;
+}
